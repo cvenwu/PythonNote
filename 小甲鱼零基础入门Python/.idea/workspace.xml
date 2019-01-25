@@ -1,26 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a4e66115-8749-4c74-b0c4-f250cd7c0efc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/13-模块/p13_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13-模块/p13_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13-模块/p13_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13-模块/p13_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13-模块/p13_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13-模块/p13_6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13-模块/p13_7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13-模块/p13_8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13-模块/package/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13-模块/package/p13_7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9-异常处理/书上例/1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9-异常处理/书上例/p9_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9-异常处理/书上例/p9_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9-异常处理/书上例/p9_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9-异常处理/书上例/p9_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9-异常处理/书上例/p9_6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9-异常处理/书上例/raise.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7-字典和集合/Test.py" beforeDir="false" afterPath="$PROJECT_DIR$/7-字典和集合/Test.py" afterDir="false" />
-    </list>
+    <list default="true" id="a4e66115-8749-4c74-b0c4-f250cd7c0efc" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +31,7 @@
         <entry file="file://$PROJECT_DIR$/13-模块/p13_8.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="108">
-              <caret line="4" column="16" lean-forward="true" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+              <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -396,17 +377,18 @@
       <workItem from="1548309075662" duration="28000" />
       <workItem from="1548332165356" duration="3956000" />
       <workItem from="1548376195185" duration="11599000" />
+      <workItem from="1548409465805" duration="8000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16370000" />
+    <option name="totallyTimeSpent" value="16378000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1432" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.10607676" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.10714286" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -576,9 +558,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/13-模块/包/1/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/13-模块/包/1/__init__.py" />
     <entry file="file://$PROJECT_DIR$/13-模块/package/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -623,7 +603,7 @@
     <entry file="file://$PROJECT_DIR$/13-模块/p13_8.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
-          <caret line="4" column="16" lean-forward="true" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
         </state>
       </provider>
     </entry>
