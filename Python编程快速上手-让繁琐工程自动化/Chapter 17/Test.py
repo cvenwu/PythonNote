@@ -33,3 +33,6 @@ img4 = img3.copy()
 # 粘贴图片
 img4.paste(img3, (20, 20))
 img4.save('4.png')
+
+
+
