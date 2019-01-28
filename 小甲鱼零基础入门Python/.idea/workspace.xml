@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a4e66115-8749-4c74-b0c4-f250cd7c0efc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/视频教程/006/基本数据类型.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/视频教程/006/确定类型.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/视频教程/007/优先级.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/视频教程/007/操作符.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/视频教程/009/assert关键字.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/视频教程/009/三元操作符.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/视频教程/004/改进的小游戏2.py" beforeDir="false" afterPath="$PROJECT_DIR$/视频教程/005/改进的小游戏2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/视频教程/004/改进的小游戏3.py" beforeDir="false" afterPath="$PROJECT_DIR$/视频教程/005/改进的小游戏3.py" afterDir="false" />
-    </list>
+    <list default="true" id="a4e66115-8749-4c74-b0c4-f250cd7c0efc" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,8 +79,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/视频教程/009/assert关键字.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="81">
-              <caret line="3" column="43" selection-start-line="3" selection-start-column="43" selection-end-line="3" selection-end-column="43" />
+            <state relative-caret-position="189">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
@@ -169,6 +159,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -195,7 +186,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -252,28 +242,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="三元操作符" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="小甲鱼零基础入门Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/视频教程/009" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/视频教程/009/三元操作符.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="改进的小游戏3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="小甲鱼零基础入门Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -288,6 +256,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="E:\git仓库\PythonNote\小甲鱼零基础入门Python\视频教程\005\改进的小游戏3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="三元操作符" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="小甲鱼零基础入门Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/视频教程/009" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/视频教程/009/三元操作符.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -475,7 +465,6 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.assert关键字" />
-        <item itemvalue="Python.三元操作符" />
         <item itemvalue="Python.确定类型" />
         <item itemvalue="Python.改进的小游戏3" />
       </list>
@@ -501,17 +490,18 @@
       <workItem from="1548494779660" duration="8945000" />
       <workItem from="1548549615632" duration="8054000" />
       <workItem from="1548573597969" duration="1169000" />
+      <workItem from="1548670993020" duration="7000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34546000" />
+    <option name="totallyTimeSpent" value="34553000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1432" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.110341154" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11140725" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -830,8 +820,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/视频教程/009/assert关键字.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="3" column="43" selection-start-line="3" selection-start-column="43" selection-end-line="3" selection-end-column="43" />
+        <state relative-caret-position="189">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
