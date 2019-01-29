@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a4e66115-8749-4c74-b0c4-f250cd7c0efc" name="Default Changelist" comment="" />
+    <list default="true" id="a4e66115-8749-4c74-b0c4-f250cd7c0efc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/视频教程/010/列表.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +28,7 @@
     <SUITE FILE_PATH="coverage/Python$p13_5.coverage" NAME="p13_5 Coverage Results" MODIFIED="1548405428019" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/13-模块" />
     <SUITE FILE_PATH="coverage/Python$3.coverage" NAME="改进的小游戏3 Coverage Results" MODIFIED="1548555861134" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/视频教程/004" />
     <SUITE FILE_PATH="coverage/Python$Test.coverage" NAME="Test Coverage Results" MODIFIED="1548508434602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/视频教程/004" />
-    <SUITE FILE_PATH="coverage/Python$.coverage" NAME="三元操作符 Coverage Results" MODIFIED="1548574154905" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/视频教程/009" />
+    <SUITE FILE_PATH="coverage/Python$.coverage" NAME="列表 Coverage Results" MODIFIED="1548722618894" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/视频教程/010" />
     <SUITE FILE_PATH="coverage/Python$p9_3.coverage" NAME="p9_3 Coverage Results" MODIFIED="1548403564976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9-异常处理/书上例" />
     <SUITE FILE_PATH="coverage/Python$2.coverage" NAME="改进的小游戏2 Coverage Results" MODIFIED="1548507889891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/视频教程/004" />
   </component>
@@ -76,11 +79,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/视频教程/009/assert关键字.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="189">
               <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/视频教程/010/列表.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="486">
+              <caret line="24" column="36" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -144,6 +156,7 @@
         <option value="$PROJECT_DIR$/视频教程/007/优先级.py" />
         <option value="$PROJECT_DIR$/视频教程/009/三元操作符.py" />
         <option value="$PROJECT_DIR$/视频教程/009/assert关键字.py" />
+        <option value="$PROJECT_DIR$/视频教程/010/列表.py" />
       </list>
     </option>
   </component>
@@ -171,12 +184,6 @@
               <item name="小甲鱼零基础入门Python" type="b2602c69:ProjectViewProjectNode" />
               <item name="小甲鱼零基础入门Python" type="462c0819:PsiDirectoryNode" />
               <item name="视频教程" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="小甲鱼零基础入门Python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="小甲鱼零基础入门Python" type="462c0819:PsiDirectoryNode" />
-              <item name="视频教程" type="462c0819:PsiDirectoryNode" />
-              <item name="009" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="小甲鱼零基础入门Python" type="b2602c69:ProjectViewProjectNode" />
@@ -219,7 +226,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.assert关键字">
+  <component name="RunManager" selected="Python.列表">
     <configuration name="确定类型" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="小甲鱼零基础入门Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -234,6 +241,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/视频教程/006/确定类型.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="列表" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="小甲鱼零基础入门Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/视频教程/010" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/视频教程/010/列表.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -464,6 +493,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.列表" />
         <item itemvalue="Python.assert关键字" />
         <item itemvalue="Python.确定类型" />
         <item itemvalue="Python.改进的小游戏3" />
@@ -491,17 +521,18 @@
       <workItem from="1548549615632" duration="8054000" />
       <workItem from="1548573597969" duration="1169000" />
       <workItem from="1548670993020" duration="7000" />
+      <workItem from="1548721876263" duration="753000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34553000" />
+    <option name="totallyTimeSpent" value="35306000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1432" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11140725" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11247335" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -822,6 +853,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
           <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/视频教程/010/列表.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="24" column="36" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
         </state>
       </provider>
     </entry>
