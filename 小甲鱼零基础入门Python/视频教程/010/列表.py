@@ -24,3 +24,26 @@ print(member2)
 # 向指定位置插入元素
 member.insert(1, '吴晓文') # 实际插入到第2个位置
 print(member)
+
+
+# 从列表中获取元素
+print(member[1])
+
+# 从列表中删除元素
+## 使用remove()
+member.remove('吴晓文')
+print(member)
+## 使用del语句
+del member[0]
+print(member)
+## 使用pop方法
+print(member.pop())
+
+
+# 利用列表切片：一次性获取多个元素
+print(member)
+print(len(member))
+print(member[1:4])
+print(member[0:])
+print(member[:4])
+print(member[:])
