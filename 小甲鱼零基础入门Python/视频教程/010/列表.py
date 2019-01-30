@@ -29,6 +29,7 @@ print(member)
 # 从列表中获取元素
 print(member[1])
 
+
 # 从列表中删除元素
 ## 使用remove()
 member.remove('吴晓文')
@@ -47,3 +48,13 @@ print(member[1:4])
 print(member[0:])
 print(member[:4])
 print(member[:])
+
+
+# 列表大小的比较
+list1 = [123, 456]
+list2 = [345, 678]
+print(list1 > list2)    #123 > 456 是 False
+list3 = list2 + list1
+print(list3)
+list2 *= 2
+print(list2)
