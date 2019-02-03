@@ -1,19 +1,26 @@
-import bs4
 import requests
+import bs4
+import os
 
-url = 'http://xkcd.com'
-resp = requests.get(url)
-respSoup = bs4.BeautifulSoup(resp.text)
+url = 'https://xkcd.com/'
 
-# 下载当前页面的漫画
-li = respSoup.select('#comic img')
-print('ddd')
-count = 0
-for i in li:
-    count += 1
-    file = open(r'E:/Python下载的漫画' + str(count) + '.png', 'wb')
-    imgFile = open(url + i.get('src'), 'rb')
-    file.write(imgFile)
+while not url.endswith('#'):
+    res = requests.get(url)
+    print('Download the page %s ' % url)
+    resSoup = bs4.BeautifulSoup(res.text)
+    imageList = resSoup.select('#comic img')
+    # TODO: Save the image file to E:/Python下载的漫画/
+    for image in imageList:
+        url = image.get('src')
+        print('Download the image %s ' % url)
+        res = requests.get('http:' + url)
+        file = open(os.path.join('E:/Python下载的漫画/', os.path.basename(url)), 'wb')
+        for content in res.iter_content(100000):
+            file.write(content)
+        file.close()
 
-# 转入前一张漫画的链接
+    # TODO: Go to previous page
+    prevLink = resSoup.select('a[rel="prev"]')[0].get('href')
+    url = 'http://xkcd.com' + prevLink
+print('Done...')
 
