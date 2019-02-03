@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="71d66e3c-2460-4aab-86bb-b8ff61fae8cf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Chapter 11 从Web抓取信息/11.7 项目：下载所有XKCD漫画/书上代码/downloadXkcd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 11 从Web抓取信息/11.7 项目：下载所有XKCD漫画/自己写.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter 11 从Web抓取信息/11.6 项目/书上代码/lucky.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter 11 从Web抓取信息/11.6 项目/书上代码/lucky.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter 11 从Web抓取信息/11.6 项目/自己写.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter 11 从Web抓取信息/11.6 项目/自己写.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,6 +20,7 @@
     <SUITE FILE_PATH="coverage/Python_$Test2.coverage" NAME="Test2 Coverage Results" MODIFIED="1549153520649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter 11 从Web抓取信息/11.5 用BeautifulSoup模块解析HTML/11.5.2 用select()方法寻找元素/书上代码" />
     <SUITE FILE_PATH="coverage/Python_$mapIt.coverage" NAME="mapIt Coverage Results" MODIFIED="1549105791129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter 11 从Web抓取信息/11.1 利用webbrowser模块的mapIt.py/书上代码" />
     <SUITE FILE_PATH="coverage/Python_$Test__1_.coverage" NAME="Test (1) Coverage Results" MODIFIED="1549108635228" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter 11 从Web抓取信息/11.3 将下载的文件保存到硬盘/书上代码" />
+    <SUITE FILE_PATH="coverage/Python_$__1_.coverage" NAME="自己写 (1) Coverage Results" MODIFIED="1549166070946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter 11 从Web抓取信息/11.7 项目：下载所有XKCD漫画" />
     <SUITE FILE_PATH="coverage/Python_$Test.coverage" NAME="Test Coverage Results" MODIFIED="1549108990254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter 11 从Web抓取信息/11.5 用BeautifulSoup模块解析HTML/11.5.1 从HTML创建一个BeautifulSoup对象/书上代码" />
     <SUITE FILE_PATH="coverage/Python_$10.coverage" NAME="10 Coverage Results" MODIFIED="1548291242172" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter 2/11习题" />
     <SUITE FILE_PATH="coverage/Python_$.coverage" NAME="自己写 Coverage Results" MODIFIED="1549158363603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter 11 从Web抓取信息/11.6 项目" />
@@ -33,10 +34,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter 11 从Web抓取信息/11.6 项目/自己写.py">
+        <entry file="file://$PROJECT_DIR$/Chapter 11 从Web抓取信息/11.7 项目：下载所有XKCD漫画/自己写.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="27">
-              <caret line="1" column="43" selection-start-line="1" selection-start-column="43" selection-end-line="1" selection-end-column="43" />
+            <state relative-caret-position="300">
+              <caret line="15" column="23" lean-forward="true" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
@@ -45,10 +46,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Chapter 11 从Web抓取信息/11.6 项目/书上代码/lucky.py">
+        <entry file="file://$PROJECT_DIR$/Chapter 11 从Web抓取信息/11.7 项目：下载所有XKCD漫画/书上代码/downloadXkcd.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="351">
-              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+            <state relative-caret-position="243">
+              <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter 11 从Web抓取信息/11.6 项目/自己写.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="13" column="17" lean-forward="true" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -103,12 +113,14 @@
         <option value="$PROJECT_DIR$/Chapter 11 从Web抓取信息/11.5 用BeautifulSoup模块解析HTML/11.5.3 通过元素的属性获取数据/书上代码.py" />
         <option value="$PROJECT_DIR$/Chapter 11 从Web抓取信息/11.6 项目/自己写.py" />
         <option value="$PROJECT_DIR$/Chapter 11 从Web抓取信息/11.6 项目/书上代码/lucky.py" />
+        <option value="$PROJECT_DIR$/Chapter 11 从Web抓取信息/11.7 项目：下载所有XKCD漫画/自己写.py" />
+        <option value="$PROJECT_DIR$/Chapter 11 从Web抓取信息/11.7 项目：下载所有XKCD漫画/书上代码/downloadXkcd.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1680" />
-    <option name="y" value="366" />
+    <option name="x" value="2033" />
+    <option name="y" value="380" />
     <option name="width" value="1452" />
     <option name="height" value="867" />
   </component>
@@ -135,41 +147,13 @@
               <item name="Python编程快速上手-让繁琐工程自动化" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python编程快速上手-让繁琐工程自动化" type="462c0819:PsiDirectoryNode" />
               <item name="Chapter 11 从Web抓取信息" type="462c0819:PsiDirectoryNode" />
-              <item name="11.2 用requests模块从Web下载文件" type="462c0819:PsiDirectoryNode" />
+              <item name="11.7 项目：下载所有XKCD漫画" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Python编程快速上手-让繁琐工程自动化" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python编程快速上手-让繁琐工程自动化" type="462c0819:PsiDirectoryNode" />
               <item name="Chapter 11 从Web抓取信息" type="462c0819:PsiDirectoryNode" />
-              <item name="11.2 用requests模块从Web下载文件" type="462c0819:PsiDirectoryNode" />
-              <item name="11.2.1 用requests.get()函数下载一个网页" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python编程快速上手-让繁琐工程自动化" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python编程快速上手-让繁琐工程自动化" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter 11 从Web抓取信息" type="462c0819:PsiDirectoryNode" />
-              <item name="11.2 用requests模块从Web下载文件" type="462c0819:PsiDirectoryNode" />
-              <item name="11.2.1 用requests.get()函数下载一个网页" type="462c0819:PsiDirectoryNode" />
-              <item name="书上代码" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python编程快速上手-让繁琐工程自动化" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python编程快速上手-让繁琐工程自动化" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter 11 从Web抓取信息" type="462c0819:PsiDirectoryNode" />
-              <item name="11.2 用requests模块从Web下载文件" type="462c0819:PsiDirectoryNode" />
-              <item name="11.2.2 检查错误" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python编程快速上手-让繁琐工程自动化" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python编程快速上手-让繁琐工程自动化" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter 11 从Web抓取信息" type="462c0819:PsiDirectoryNode" />
-              <item name="11.6 项目" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python编程快速上手-让繁琐工程自动化" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python编程快速上手-让繁琐工程自动化" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter 11 从Web抓取信息" type="462c0819:PsiDirectoryNode" />
-              <item name="11.6 项目" type="462c0819:PsiDirectoryNode" />
+              <item name="11.7 项目：下载所有XKCD漫画" type="462c0819:PsiDirectoryNode" />
               <item name="书上代码" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -209,7 +193,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.自己写">
+  <component name="RunManager" selected="Python.自己写 (1)">
+    <configuration name="自己写 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python编程快速上手-让繁琐工程自动化" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 11 从Web抓取信息/11.7 项目：下载所有XKCD漫画" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 11 从Web抓取信息/11.7 项目：下载所有XKCD漫画/自己写.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="书上代码" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python编程快速上手-让繁琐工程自动化" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -224,28 +230,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 11 从Web抓取信息/11.5 用BeautifulSoup模块解析HTML/11.5.3 通过元素的属性获取数据/书上代码.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python编程快速上手-让繁琐工程自动化" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 11 从Web抓取信息/11.5 用BeautifulSoup模块解析HTML/11.5.1 从HTML创建一个BeautifulSoup对象" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 11 从Web抓取信息/11.5 用BeautifulSoup模块解析HTML/11.5.1 从HTML创建一个BeautifulSoup对象/1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -388,11 +372,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.自己写 (1)" />
         <item itemvalue="Python.自己写" />
         <item itemvalue="Python.书上代码" />
         <item itemvalue="Python.Test2" />
         <item itemvalue="Python.Test (2)" />
-        <item itemvalue="Python.1" />
       </list>
     </recent_temporary>
   </component>
@@ -419,12 +403,12 @@
       <workItem from="1548987447258" duration="2446000" />
       <workItem from="1549078417559" duration="305000" />
       <workItem from="1549105537123" duration="4629000" />
-      <workItem from="1549151629029" duration="5563000" />
+      <workItem from="1549151629029" duration="10940000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31912000" />
+    <option name="totallyTimeSpent" value="37289000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1432" y="-8" width="1936" height="1056" extended-state="6" />
@@ -435,7 +419,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3275488" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3275488" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -444,7 +428,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.329718" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.329718" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.329718" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -641,20 +625,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter 11 从Web抓取信息/11.3 将下载的文件保存到硬盘/书上代码/Test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter 11 从Web抓取信息/11.3 将下载的文件保存到硬盘/书上代码/RomeAndJuliet.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Chapter 11 从Web抓取信息/11.5 用BeautifulSoup模块解析HTML/11.5.1 从HTML创建一个BeautifulSoup对象/1.py" />
     <entry file="file://$PROJECT_DIR$/Chapter 11 从Web抓取信息/11.2 用requests模块从Web下载文件/11.2.2 检查错误/书上代码/改进.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -712,20 +682,48 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 11 从Web抓取信息/11.3 将下载的文件保存到硬盘/书上代码/Test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 11 从Web抓取信息/11.3 将下载的文件保存到硬盘/书上代码/RomeAndJuliet.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 11 从Web抓取信息/11.6 项目/书上代码/lucky.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Chapter 11 从Web抓取信息/11.6 项目/自己写.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="1" column="43" selection-start-line="1" selection-start-column="43" selection-end-line="1" selection-end-column="43" />
+        <state relative-caret-position="270">
+          <caret line="13" column="17" lean-forward="true" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 11 从Web抓取信息/11.7 项目：下载所有XKCD漫画/自己写.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" column="23" lean-forward="true" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter 11 从Web抓取信息/11.6 项目/书上代码/lucky.py">
+    <entry file="file://$PROJECT_DIR$/Chapter 11 从Web抓取信息/11.7 项目：下载所有XKCD漫画/书上代码/downloadXkcd.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        <state relative-caret-position="243">
+          <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
         </state>
       </provider>
     </entry>
