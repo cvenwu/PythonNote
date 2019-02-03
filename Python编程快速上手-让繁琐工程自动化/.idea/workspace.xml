@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="71d66e3c-2460-4aab-86bb-b8ff61fae8cf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Chapter 11 从Web抓取信息/11.7 项目：下载所有XKCD漫画/Test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter 11 从Web抓取信息/11.8 用selenium模块控制浏览器/11.8.1 启动selenium控制的浏览器/书上代码/Test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 11 从Web抓取信息/11.8 用selenium模块控制浏览器/11.8.2 在页面中查找元素/书上代码/Test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter 11 从Web抓取信息/11.7 项目：下载所有XKCD漫画/自己写.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter 11 从Web抓取信息/11.7 项目：下载所有XKCD漫画/自己写.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter 11 从Web抓取信息/11.8 用selenium模块控制浏览器/11.8.1 启动selenium控制的浏览器/书上代码/Test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter 11 从Web抓取信息/11.8 用selenium模块控制浏览器/11.8.1 启动selenium控制的浏览器/书上代码/Test.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,11 +16,11 @@
     <SUITE FILE_PATH="coverage/Python_$printRandom.coverage" NAME="printRandom Coverage Results" MODIFIED="1548290838459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter 2/8导入模块" />
     <SUITE FILE_PATH="coverage/Python_$12.coverage" NAME="12 Coverage Results" MODIFIED="1548291356704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter 2/11习题" />
     <SUITE FILE_PATH="coverage/Python_$magic8Ball.coverage" NAME="magic8Ball Coverage Results" MODIFIED="1546434215145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter 4" />
-    <SUITE FILE_PATH="coverage/Python_$Test__2_.coverage" NAME="Test (2) Coverage Results" MODIFIED="1549153326376" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter 11 从Web抓取信息/11.5 用BeautifulSoup模块解析HTML/11.5.2 用select()方法寻找元素/书上代码" />
     <SUITE FILE_PATH="coverage/Python_$Test2.coverage" NAME="Test2 Coverage Results" MODIFIED="1549153520649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter 11 从Web抓取信息/11.5 用BeautifulSoup模块解析HTML/11.5.2 用select()方法寻找元素/书上代码" />
+    <SUITE FILE_PATH="coverage/Python_$Test__2_.coverage" NAME="Test (2) Coverage Results" MODIFIED="1549188313368" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter 11 从Web抓取信息/11.8 用selenium模块控制浏览器/11.8.2 在页面中查找元素/书上代码" />
     <SUITE FILE_PATH="coverage/Python_$mapIt.coverage" NAME="mapIt Coverage Results" MODIFIED="1549105791129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter 11 从Web抓取信息/11.1 利用webbrowser模块的mapIt.py/书上代码" />
     <SUITE FILE_PATH="coverage/Python_$downloadXkcd.coverage" NAME="downloadXkcd Coverage Results" MODIFIED="1549181694375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter 11 从Web抓取信息/11.7 项目：下载所有XKCD漫画/书上代码" />
-    <SUITE FILE_PATH="coverage/Python_$Test__1_.coverage" NAME="Test (1) Coverage Results" MODIFIED="1549182225007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter 11 从Web抓取信息/11.8 用selenium模块控制浏览器/11.8.1 启动selenium控制的浏览器/书上代码" />
+    <SUITE FILE_PATH="coverage/Python_$Test__1_.coverage" NAME="Test (1) Coverage Results" MODIFIED="1549184915951" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter 11 从Web抓取信息/11.8 用selenium模块控制浏览器/11.8.1 启动selenium控制的浏览器/书上代码" />
     <SUITE FILE_PATH="coverage/Python_$__1_.coverage" NAME="自己写 (1) Coverage Results" MODIFIED="1549181797959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter 11 从Web抓取信息/11.7 项目：下载所有XKCD漫画" />
     <SUITE FILE_PATH="coverage/Python_$Test.coverage" NAME="Test Coverage Results" MODIFIED="1549180906252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter 11 从Web抓取信息/11.7 项目：下载所有XKCD漫画" />
     <SUITE FILE_PATH="coverage/Python_$10.coverage" NAME="10 Coverage Results" MODIFIED="1548291242172" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter 2/11习题" />
@@ -38,20 +37,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Chapter 11 从Web抓取信息/11.7 项目：下载所有XKCD漫画/自己写.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
+            <state relative-caret-position="378">
               <caret line="16" column="27" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
-              <folding>
-                <element signature="e#1#16#0" expanded="true" />
-              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter 11 从Web抓取信息/11.8 用selenium模块控制浏览器/11.8.1 启动selenium控制的浏览器/书上代码/Test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="27">
+              <caret line="1" column="29" selection-start-line="1" selection-end-line="2" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Chapter 11 从Web抓取信息/11.8 用selenium模块控制浏览器/11.8.1 启动selenium控制的浏览器/书上代码/Test.py">
+        <entry file="file://$PROJECT_DIR$/Chapter 11 从Web抓取信息/11.8 用selenium模块控制浏览器/11.8.2 在页面中查找元素/书上代码/Test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="2" column="11" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="11" />
+            <state relative-caret-position="243">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
@@ -137,12 +142,13 @@
         <option value="$PROJECT_DIR$/Chapter 11 从Web抓取信息/11.7 项目：下载所有XKCD漫画/Test.py" />
         <option value="$PROJECT_DIR$/Chapter 11 从Web抓取信息/11.7 项目：下载所有XKCD漫画/自己写.py" />
         <option value="$PROJECT_DIR$/Chapter 11 从Web抓取信息/11.8 用selenium模块控制浏览器/11.8.1 启动selenium控制的浏览器/书上代码/Test.py" />
+        <option value="$PROJECT_DIR$/Chapter 11 从Web抓取信息/11.8 用selenium模块控制浏览器/11.8.2 在页面中查找元素/书上代码/Test.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="2033" />
-    <option name="y" value="380" />
+    <option name="x" value="1791" />
+    <option name="y" value="113" />
     <option name="width" value="1452" />
     <option name="height" value="867" />
   </component>
@@ -164,6 +170,19 @@
               <item name="Python编程快速上手-让繁琐工程自动化" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python编程快速上手-让繁琐工程自动化" type="462c0819:PsiDirectoryNode" />
               <item name="Chapter 11 从Web抓取信息" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python编程快速上手-让繁琐工程自动化" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python编程快速上手-让繁琐工程自动化" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter 11 从Web抓取信息" type="462c0819:PsiDirectoryNode" />
+              <item name="11.8 用selenium模块控制浏览器" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python编程快速上手-让繁琐工程自动化" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python编程快速上手-让繁琐工程自动化" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter 11 从Web抓取信息" type="462c0819:PsiDirectoryNode" />
+              <item name="11.8 用selenium模块控制浏览器" type="462c0819:PsiDirectoryNode" />
+              <item name="11.8.2 在页面中查找元素" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -202,7 +221,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Test (1)">
+  <component name="RunManager" selected="Python.Test (2)">
     <configuration name="自己写 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python编程快速上手-让繁琐工程自动化" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -225,7 +244,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="自己写" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="书上代码" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python编程快速上手-让繁琐工程自动化" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -233,12 +252,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 11 从Web抓取信息/11.6 项目" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 11 从Web抓取信息/11.1 利用webbrowser模块的mapIt.py" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 11 从Web抓取信息/11.6 项目/自己写.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 11 从Web抓取信息/11.1 利用webbrowser模块的mapIt.py/书上代码.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -269,6 +288,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Test (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python编程快速上手-让繁琐工程自动化" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 11 从Web抓取信息/11.8 用selenium模块控制浏览器/11.8.2 在页面中查找元素/书上代码" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 11 从Web抓取信息/11.8 用selenium模块控制浏览器/11.8.2 在页面中查找元素/书上代码/Test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python编程快速上手-让繁琐工程自动化" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -283,28 +324,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 11 从Web抓取信息/11.7 项目：下载所有XKCD漫画/Test.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="书上代码" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python编程快速上手-让繁琐工程自动化" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 11 从Web抓取信息/11.1 利用webbrowser模块的mapIt.py" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 11 从Web抓取信息/11.1 利用webbrowser模块的mapIt.py/书上代码.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -381,11 +400,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Test (2)" />
         <item itemvalue="Python.Test (1)" />
         <item itemvalue="Python.自己写 (1)" />
         <item itemvalue="Python.downloadXkcd" />
         <item itemvalue="Python.Test" />
-        <item itemvalue="Python.自己写" />
       </list>
     </recent_temporary>
   </component>
@@ -412,18 +431,18 @@
       <workItem from="1548987447258" duration="2446000" />
       <workItem from="1549078417559" duration="305000" />
       <workItem from="1549105537123" duration="4629000" />
-      <workItem from="1549151629029" duration="13516000" />
+      <workItem from="1549151629029" duration="16792000" />
+      <workItem from="1549187997149" duration="241000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39865000" />
+    <option name="totallyTimeSpent" value="43382000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1432" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12953092" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13059701" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -712,17 +731,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 11 从Web抓取信息/11.7 项目：下载所有XKCD漫画/自己写.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="16" column="27" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 11 从Web抓取信息/11.8 用selenium模块控制浏览器/11.8.1 启动selenium控制的浏览器/书上代码/Test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" column="29" selection-start-line="1" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Chapter 11 从Web抓取信息/11.7 项目：下载所有XKCD漫画/Test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="27">
           <caret line="1" column="9" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter 11 从Web抓取信息/11.6 项目/自己写.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="15" column="19" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="19" />
         </state>
       </provider>
     </entry>
@@ -733,20 +759,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter 11 从Web抓取信息/11.7 项目：下载所有XKCD漫画/自己写.py">
+    <entry file="file://$PROJECT_DIR$/Chapter 11 从Web抓取信息/11.6 项目/自己写.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="16" column="27" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
-          <folding>
-            <element signature="e#1#16#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="324">
+          <caret line="15" column="19" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter 11 从Web抓取信息/11.8 用selenium模块控制浏览器/11.8.1 启动selenium控制的浏览器/书上代码/Test.py">
+    <entry file="file://$PROJECT_DIR$/Chapter 11 从Web抓取信息/11.8 用selenium模块控制浏览器/11.8.2 在页面中查找元素/书上代码/Test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="11" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="11" />
+        <state relative-caret-position="243">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
