@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="71d66e3c-2460-4aab-86bb-b8ff61fae8cf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Chapter 11 从Web抓取信息/11.11 实际项目/11.11.1 命令行邮件程序/自己写.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter 11 从Web抓取信息/11.11 实际项目/11.11.3 2048/自己写.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter 11 从Web抓取信息/11.8 用selenium模块控制浏览器/11.8.3 点击页面/书上代码.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter 11 从Web抓取信息/11.8 用selenium模块控制浏览器/11.8.4 填写并提交表单/书上代码.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter 11 从Web抓取信息/11.8 用selenium模块控制浏览器/11.8.4 填写并提交表单/自己写.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter 11 从Web抓取信息/11.8 用selenium模块控制浏览器/11.8.5 发送特殊键/书上代码.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="71d66e3c-2460-4aab-86bb-b8ff61fae8cf" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +35,7 @@
         <entry file="file://$PROJECT_DIR$/Chapter 11 从Web抓取信息/11.11 实际项目/11.11.1 命令行邮件程序/自己写.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="297">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
@@ -63,7 +55,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Chapter 11 从Web抓取信息/11.8 用selenium模块控制浏览器/11.8.5 发送特殊键/书上代码.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
+            <state relative-caret-position="108">
               <caret line="5" column="34" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
               <folding>
                 <element signature="e#0#30#0" expanded="true" />
@@ -226,7 +218,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.自己写 (2)">
+  <component name="RunManager" selected="Python.书上代码">
     <configuration name="自己写 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python编程快速上手-让繁琐工程自动化" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -383,10 +375,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.自己写 (2)" />
         <item itemvalue="Python.自己写 (1)" />
         <item itemvalue="Python.书上代码 (2)" />
-        <item itemvalue="Python.自己写" />
         <item itemvalue="Python.书上代码" />
       </list>
     </recent_temporary>
@@ -420,17 +410,18 @@
       <workItem from="1549202724262" duration="960000" />
       <workItem from="1549239025199" duration="718000" />
       <workItem from="1549239758481" duration="7548000" />
+      <workItem from="1549274839960" duration="32000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52832000" />
+    <option name="totallyTimeSpent" value="52864000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1432" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13539445" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13646056" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -733,13 +724,13 @@
     <entry file="file://$PROJECT_DIR$/Chapter 11 从Web抓取信息/11.11 实际项目/11.11.1 命令行邮件程序/自己写.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="297">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Chapter 11 从Web抓取信息/11.8 用selenium模块控制浏览器/11.8.5 发送特殊键/书上代码.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
+        <state relative-caret-position="108">
           <caret line="5" column="34" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
           <folding>
             <element signature="e#0#30#0" expanded="true" />
