@@ -1,4 +1,3 @@
-
 import tkinter as tk
 
 # 创建一个主窗口，用于容纳整个GUI程序

@@ -1,7 +1,6 @@
 
 import tkinter as tk
-tk.Button
-class App:
+class App():
     def __init__(self, root):
         frame = tk.Frame(root)
         frame.pack()

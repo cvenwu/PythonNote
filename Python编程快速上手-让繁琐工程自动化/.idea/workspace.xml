@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="71d66e3c-2460-4aab-86bb-b8ff61fae8cf" name="Default Changelist" comment="" />
+    <list default="true" id="71d66e3c-2460-4aab-86bb-b8ff61fae8cf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Chapter 13/13.1 PDF文档/13.1.1 从PDF提取文本/书上代码.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Python编程快速上手-让繁琐工程自动化.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python编程快速上手-让繁琐工程自动化.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,7 +23,7 @@
     <SUITE FILE_PATH="coverage/Python_$mapIt.coverage" NAME="mapIt Coverage Results" MODIFIED="1549105791129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter 11 从Web抓取信息/11.1 利用webbrowser模块的mapIt.py/书上代码" />
     <SUITE FILE_PATH="coverage/Python_$downloadXkcd.coverage" NAME="downloadXkcd Coverage Results" MODIFIED="1549181694375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter 11 从Web抓取信息/11.7 项目：下载所有XKCD漫画/书上代码" />
     <SUITE FILE_PATH="coverage/Python_$Test__1_.coverage" NAME="Test (1) Coverage Results" MODIFIED="1549184915951" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter 11 从Web抓取信息/11.8 用selenium模块控制浏览器/11.8.1 启动selenium控制的浏览器/书上代码" />
-    <SUITE FILE_PATH="coverage/Python_$__1_.coverage" NAME="自己写 (1) Coverage Results" MODIFIED="1549245483470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter 11 从Web抓取信息/11.11 实际项目/11.11.1 命令行邮件程序" />
+    <SUITE FILE_PATH="coverage/Python_$__1_.coverage" NAME="书上代码 (1) Coverage Results" MODIFIED="1554355711424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter 13/13.1 PDF文档/13.1.1 从PDF提取文本" />
     <SUITE FILE_PATH="coverage/Python_$Test.coverage" NAME="Test Coverage Results" MODIFIED="1549180906252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter 11 从Web抓取信息/11.7 项目：下载所有XKCD漫画" />
     <SUITE FILE_PATH="coverage/Python_$10.coverage" NAME="10 Coverage Results" MODIFIED="1548291242172" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter 2/11习题" />
     <SUITE FILE_PATH="coverage/Python_$.coverage" NAME="自己写 Coverage Results" MODIFIED="1549242010600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter 11 从Web抓取信息/11.8 用selenium模块控制浏览器/11.8.4 填写并提交表单" />
@@ -31,44 +36,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter 11 从Web抓取信息/11.11 实际项目/11.11.1 命令行邮件程序/自己写.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Chapter 11 从Web抓取信息/11.11 实际项目/11.11.3 2048/自己写.py">
+        <entry file="file://$PROJECT_DIR$/Chapter 13/13.1 PDF文档/13.1.1 从PDF提取文本/书上代码.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-              <folding>
-                <element signature="e#0#30#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter 11 从Web抓取信息/11.8 用selenium模块控制浏览器/11.8.5 发送特殊键/书上代码.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="5" column="34" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
-              <folding>
-                <element signature="e#0#30#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter 11 从Web抓取信息/11.8 用selenium模块控制浏览器/11.8.4 填写并提交表单/自己写.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="4" column="30" lean-forward="true" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+            <state relative-caret-position="256">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
@@ -134,14 +106,15 @@
         <option value="$PROJECT_DIR$/Chapter 11 从Web抓取信息/11.8 用selenium模块控制浏览器/11.8.5 发送特殊键/书上代码.py" />
         <option value="$PROJECT_DIR$/Chapter 11 从Web抓取信息/11.11 实际项目/11.11.1 命令行邮件程序/自己写.py" />
         <option value="$PROJECT_DIR$/Chapter 11 从Web抓取信息/11.11 实际项目/11.11.3 2048/自己写.py" />
+        <option value="$PROJECT_DIR$/Chapter 13/13.1 PDF文档/13.1.1 从PDF提取文本/书上代码.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1748" />
-    <option name="y" value="234" />
-    <option name="width" value="1440" />
-    <option name="height" value="860" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -149,6 +122,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -159,37 +133,30 @@
             <path>
               <item name="Python编程快速上手-让繁琐工程自动化" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python编程快速上手-让繁琐工程自动化" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter 11 从Web抓取信息" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter 13" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Python编程快速上手-让繁琐工程自动化" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python编程快速上手-让繁琐工程自动化" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter 11 从Web抓取信息" type="462c0819:PsiDirectoryNode" />
-              <item name="11.8 用selenium模块控制浏览器" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter 13" type="462c0819:PsiDirectoryNode" />
+              <item name="13.1 PDF文档" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Python编程快速上手-让繁琐工程自动化" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python编程快速上手-让繁琐工程自动化" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter 11 从Web抓取信息" type="462c0819:PsiDirectoryNode" />
-              <item name="11.8 用selenium模块控制浏览器" type="462c0819:PsiDirectoryNode" />
-              <item name="11.8.5 发送特殊键" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python编程快速上手-让繁琐工程自动化" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python编程快速上手-让繁琐工程自动化" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter 11 从Web抓取信息" type="462c0819:PsiDirectoryNode" />
-              <item name="11.11 实际项目" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter 13" type="462c0819:PsiDirectoryNode" />
+              <item name="13.1 PDF文档" type="462c0819:PsiDirectoryNode" />
+              <item name="13.1.1 从PDF提取文本" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../小甲鱼零基础入门Python" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Application Data" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -218,7 +185,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.书上代码">
+  <component name="RunManager" selected="Python.书上代码 (1)">
     <configuration name="自己写 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python编程快速上手-让繁琐工程自动化" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -233,6 +200,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 11 从Web抓取信息/11.11 实际项目/11.11.1 命令行邮件程序/自己写.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="书上代码 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python编程快速上手-让繁琐工程自动化" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 13/13.1 PDF文档/13.1.1 从PDF提取文本" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 13/13.1 PDF文档/13.1.1 从PDF提取文本/书上代码.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -375,6 +364,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.书上代码 (1)" />
         <item itemvalue="Python.自己写 (1)" />
         <item itemvalue="Python.书上代码 (2)" />
         <item itemvalue="Python.书上代码" />
@@ -411,22 +401,23 @@
       <workItem from="1549239025199" duration="718000" />
       <workItem from="1549239758481" duration="7548000" />
       <workItem from="1549274839960" duration="32000" />
+      <workItem from="1554351426278" duration="3298000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52864000" />
+    <option name="totallyTimeSpent" value="56162000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1432" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13646056" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1387689" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.3275488" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" weight="0.3125683" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -448,13 +439,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Chapter 2/9用sys.exit()提前结束程序/Test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Chapter 2/9用sys.exit()提前结束程序/exitExample.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -723,14 +707,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Chapter 11 从Web抓取信息/11.11 实际项目/11.11.1 命令行邮件程序/自己写.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
+        <state relative-caret-position="352">
           <caret line="11" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Chapter 11 从Web抓取信息/11.8 用selenium模块控制浏览器/11.8.5 发送特殊键/书上代码.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
+        <state relative-caret-position="160">
           <caret line="5" column="34" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
           <folding>
             <element signature="e#0#30#0" expanded="true" />
@@ -740,18 +724,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Chapter 11 从Web抓取信息/11.8 用selenium模块控制浏览器/11.8.4 填写并提交表单/自己写.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="4" column="30" lean-forward="true" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+        <state relative-caret-position="128">
+          <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Chapter 11 从Web抓取信息/11.11 实际项目/11.11.3 2048/自己写.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="320">
+          <caret line="10" column="28" lean-forward="true" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
           <folding>
             <element signature="e#0#30#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 13/13.1 PDF文档/13.1.1 从PDF提取文本/书上代码.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
